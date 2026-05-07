@@ -1,3 +1,4 @@
+https://app-na2.hubspot.com/contacts/246110369/objects/2-229340333/views/all/list
 # Welcome to the Integrating With HubSpot I: Foundations Practicum
 
 This repository is for the Integrating With HubSpot I: Foundations course. This practicum is one of two requirements for receiving your Integrating With HubSpot I: Foundations certification. You must also take the exam and receive a passing grade (at least 75%).
